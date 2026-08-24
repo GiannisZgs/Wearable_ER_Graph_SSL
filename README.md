@@ -1,6 +1,4 @@
-# Graph_SSL_WearableEmoRec
-
-**Self-Supervised Graph Representation Learning for In-The-Wild Wearable and Smartphone based Emotion Recognition**
+# Self-Supervised Graph Representation Learning for In-The-Wild Wearable and Smartphone based Emotion Recognition
 
 Official code for our ICASSP 2025 paper. We formulate wearable/smartphone emotion recognition (arousal & valence) as an **inductive graph node classification** problem and train a single graph neural network with a **joint supervised + semi-supervised + self-supervised loss**, sampling small subgraphs of labeled and unlabeled subjects at every training epoch.
 

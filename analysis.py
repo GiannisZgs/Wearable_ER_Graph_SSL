@@ -1,7 +1,5 @@
 #%% Constants
 
-"MAKE A SCRIPT THAT PRINTS DATA OVERVIEW (FROM 1st processing.py end and Analysis.py end)"
-
 import pytz
 import os
 import pandas as pd
