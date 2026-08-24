@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data / results / logs (produced by the pipeline, never committed)
+intermediate*/
+data/
+data_preprocessing/
+results_*/
+logs_*/
+plots*/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
